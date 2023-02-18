@@ -1,1 +1,7 @@
-# Bach_JSA10_FP
+# Bach Final Project (8/3)
+
+## Ideas
+
+## Check point 
+- [ ] header (navigation bar) , footer (+ contact)
+
